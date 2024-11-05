@@ -1,0 +1,10 @@
+{
+    "token": "TOKEN",
+    "group_id": -100,
+    "proxy": "http://login:pass@ip:port",
+    "url": "https://reserve-prime.apple.com/AE/en_AE/reserve/A/availability.json",
+    "message_id": 1,
+    "start_text": "Hello, warrior!",
+    "notify_type": 2,
+    "notify_type_explain": "0 - only pro, 1 - only pro max, 2 - pro and pro max"
+}

@@ -1,0 +1,34 @@
+{
+    "pro": {
+        "MYMV3AE/A": "Pro 128GB - Black Titanium",
+        "MYMW3AE/A": "Pro 128GB - White Titanium",
+        "MYMX3AE/A": "Pro 128GB - Desert Titanium",
+        "MYMY3AE/A": "Pro 128GB - Natural Titanium",
+        "MYN03AE/A": "Pro 256GB - Black Titanium",
+        "MYN13AE/A": "Pro 256GB - White Titanium",
+        "MYN23AE/A": "Pro 256GB - Desert Titanium",
+        "MYN33AE/A": "Pro 256GB - Natural Titanium",
+        "MYN43AE/A": "Pro 512GB - Black Titanium",
+        "MYN53AE/A": "Pro 512GB - White Titanium",
+        "MYN63AE/A": "Pro 512GB - Desert Titanium",
+        "MYN73AE/A": "Pro 512GB - Natural Titanium",
+        "MYN83AE/A": "Pro 1TB - Black Titanium",
+        "MYN93AE/A": "Pro 1TB - White Titanium",
+        "MYNA3AE/A": "Pro 1TB - Desert Titanium",
+        "MYNC3AE/A": "Pro 1TB - Natural Titanium"
+    },
+    "pro_max": {
+        "MYWG3AE/A": "Pro Max 256GB - Black Titanium",
+        "MYWH3AE/A": "Pro Max 256GB - White Titanium",
+        "MYWJ3AE/A": "Pro Max 256GB - Desert Titanium",
+        "MYWK3AE/A": "Pro Max 256GB - Natural Titanium",
+        "MYWL3AE/A": "Pro Max 512GB - Black Titanium",
+        "MYWM3AE/A": "Pro Max 512GB - White Titanium",
+        "MYWN3AE/A": "Pro Max 512GB - Desert Titanium",
+        "MYWP3AE/A": "Pro Max 512GB - Natural Titanium",
+        "MYWQ3AE/A": "Pro Max 1TB - Black Titanium",
+        "MYWR3AE/A": "Pro Max 1TB - White Titanium",
+        "MYWU3AE/A": "Pro Max 1TB - Natural Titanium",
+        "MYWT3AE/A": "Pro Max 1TB - Desert Titanium"
+    }
+}
